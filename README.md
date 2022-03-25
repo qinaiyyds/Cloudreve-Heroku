@@ -4,8 +4,7 @@ Cloudreve with redis的Docker版本
 
 ---
 
-一键部署在Heroku上：[![Deploy](https://heroku.com/deploy)](https://www.heroku.com/deploy?template=https://github.com/useblue/Cloudreve-Heroku)
-
+一键部署在Heroku上：[![Deploy](https://heroku.com/deploy)](https://www.heroku.com/deploy?template=https://github.com/qinaiyyds/Cloudreve-Heroku/）
 ---
 
 查看Heroku Redis + Heroku Postgres版：https://github.com/useblue/Cloudreve-Heroku/tree/Cloudreve-Heroku
